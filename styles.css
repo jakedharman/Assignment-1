@@ -10,6 +10,7 @@ body {
     padding-top: 15px;
     padding-bottom: 15px;
     padding-left: 240px;
+    margin-right: 40%;
     background-color: rgb(146, 192, 213);
     font-family: arial;
   }
@@ -37,6 +38,10 @@ body {
     font-family: helvetica;
   }
 
+  .border {
+    border-left-style: solid;
+    border-color: rgb(146, 192, 213);
+  }
   
 .sidenav {
     height:100%;
